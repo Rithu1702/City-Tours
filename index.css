@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.selector1 {
+    color: #222; 
+}
+
+.selector2 {
+    color: #82b340; 
+}
+
+.selector3 {
+    color: #fff; 
+}
+.selector4 {
+    color: #ececec;
+}
+body{
+    background: #fff;
+    color: #222;
+    font-family:"Open Sans", sans-serif;
+}
+

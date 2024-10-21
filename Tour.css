@@ -1,0 +1,28 @@
+
+
+.tour {
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+  .tour-info {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .tour-info h3 {
+    text-transform: capitalize;
+    color:green;
+  }
+  .tour-info h4,
+  .tour-info h5 {
+    margin: 5px 0;
+  }
+  
+  .tour-info p {
+    margin: 10px 0;
+  }
+  

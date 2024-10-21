@@ -1,0 +1,23 @@
+.tourList {
+    width: 70vw;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+/* TourList.css */
+
+.tourList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
+    grid-gap: 20px;
+    justify-items: center;
+  }
+  
+  /* You can adjust the max-width of the images as needed */
+  .tourList img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    width:100%;
+  }
+  
